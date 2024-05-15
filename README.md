@@ -10,16 +10,16 @@ pip install requirements.txt
   1. If an image is uploaded, it should be displayed on the screen.
   2. If a video is uploaded, the screen should display the first frame of the video. Users should be able to navigate through subsequent frames using the provided buttons.
 - Then you should have the option to apply various image processing techniques to the uploaded media. These techniques include:
-  • Thresholding
-  • Histogram Equalization
-  • Averaging Filter
-  • Adaptive Thresholding
-  • Clustering (with optimal number of clusters)
-  • LoG
-  • Erosion
-  • Dilation
-  • Closing
-  • Opening
+  -    Thresholding
+  -    Histogram Equalization
+  -    Averaging Filter
+  -    Adaptive Thresholding
+  -    Clustering (with optimal number of clusters)
+  -    LoG
+  -    Erosion
+  -    Dilation
+  -    Closing
+  -    Opening
 - Upon selecting a technique, the program should process the media accordingly and display the result on the output panel.
 
 
