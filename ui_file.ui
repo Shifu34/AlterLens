@@ -89,7 +89,7 @@ font-weight: bold;
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../../figma_htmlgenerator[1]/images/image_89.png</pixmap>
+     <pixmap>image_89.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -159,6 +159,41 @@ font-weight: bold;</string>
     <item>
      <property name="text">
       <string>Laplacian</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>A Thresholding</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Clustering</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>LoG</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Erosion</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Dilation</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Opening</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Closing</string>
      </property>
     </item>
    </widget>
