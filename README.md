@@ -1,6 +1,6 @@
-<H1 align="center">Media Processing App</H1>
+<H1 align="center">AlterLens(Media Processing App)</H1>
 
-In this repository I will be successfully creating an app using PyQt in which an image or a video will be uploaded and then out of four image processing techniques, one will be applied.
+In this repository I will be successfully creating an app named AlterLens using PyQt in which an image or a video will be uploaded and then out of four image processing techniques, one will be applied.
 
 - First of all you have to install all the libraries required to run the app.
 ```
@@ -13,7 +13,13 @@ pip install requirements.txt
   • Thresholding
   • Histogram Equalization
   • Averaging Filter
-  • Laplacian
+  • Adaptive Thresholding
+  • Clustering (with optimal number of clusters)
+  • LoG
+  • Erosion
+  • Dilation
+  • Closing
+  • Opening
 - Upon selecting a technique, the program should process the media accordingly and display the result on the output panel.
 
 
